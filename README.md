@@ -9,4 +9,4 @@ vxcb
 cvx
 xvbc
 xcbv
-cvx
+cvxc
