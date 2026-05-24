@@ -1,4 +1,2 @@
  nb
  n 
-gh
-nm
